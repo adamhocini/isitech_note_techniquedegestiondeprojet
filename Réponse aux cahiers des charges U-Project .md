@@ -50,3 +50,42 @@ L'arbitrage d'un projet web / comite de pilotage
 
 
 forfait pour les petite entreprise pour payer des dev 
+
+
+
+
+
+
+3 types de ressources :
+
+Types de travail (développeurs, technicien support, heures, RH)
+Consommables (Ordinateurs, licences et logiciels, salariés, frais de transport)
+Frais de déplacement
+Macro-planning :  Avoir une vue d’ensemble du projet
+
+
+
+Taches :
+
+Travail de gantt
+Documents types devis/facture
+Cahier des charges
+
+
+question;
+
+Dans le CDC on nous dis que mMeublinot ont 75salarier , ca veut dire 75 liscence et tout ce qui va avec ?
+
+Combien de dev on aura besoin precisement ? quel niveau on les dev? (expert senior junior...)
+
+ON nous demande pas de deplacement 
+
+Intégration d’un technicien informatique = 2 000 euros/ mois
+
+14 collaborateurs. Ils sont développeurs, chefs de projet ou encore techniciens 
+
+
+HORAIRE DE TRAVAIL: 
+12h-13h30 = 6h/semaine
+soir : 17h30-20h = 2h30 = 10h/semaime                :== 30h/semaime
+S/D : 18h - 2h de pause le midi 30h/ semaine 
