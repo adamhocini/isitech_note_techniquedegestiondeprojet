@@ -71,6 +71,28 @@ Travail de gantt
 Documents types devis/facture
 Cahier des charges
 
+{
+Les methodes de gestion de projet;
+le chef de projet va utiliser la methode la plus adapter a son ptojet et surtout la plus adapter a l'organisation de l'entreprise.
+
+le methode la plus utiliser : le model de cycle en cascade
+les etapes du projet s'enchainent les unes apres les autres
+Analyse (du besoin exprimer par le client)
+conception ( creation du produit (thorique (preparer les plan)) )
+planifacation( phase de developpement repartition des taches)
+Réalisation
+Verification(test, recette)
+Mise en production
+Maintenance
+
+Modele de cycle en V
+Cette methode derive de la methode en cascade
+Son but -> palier au manque de flexibilité de la methide en cascade
+ce concentre sur la phase de conception
+
+Les méthodes agiles : Le client est impliqué dans la conception du projet du début à la fin, le besoin initial peut changer pour s’adapter à tout les changements et difficultés rencontrées. Au sein des méthodes traditionnelles, on conçoit un livrable final dès le départ, la méthode agile se fixe des objectifs successifs et à chaque palier atteint, on se fixe à laide du client un nouvel objectif 
+}
+
 
 question;
 
