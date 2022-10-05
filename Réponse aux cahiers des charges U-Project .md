@@ -1,3 +1,4 @@
+03/10
 La def d'un projet web
 
 Un projet web cest un projet informatique dont les livrable ont pour destination le web (reseaux internet)
@@ -45,16 +46,12 @@ L'arbitrage d'un projet web / comite de pilotage
 
 
 
-
-
-
-
 forfait pour les petite entreprise pour payer des dev 
 
 
 
 
-
+04/10
 
 3 types de ressources :
 
@@ -70,6 +67,28 @@ Taches :
 Travail de gantt
 Documents types devis/facture
 Cahier des charges
+
+
+question;
+
+Dans le CDC on nous dis que mMeublinot ont 75salarier , ca veut dire 75 liscence et tout ce qui va avec ?
+
+Combien de dev on aura besoin precisement ? quel niveau on les dev? (expert senior junior...)
+
+ON nous demande pas de deplacement 
+
+Intégration d’un technicien informatique = 2 000 euros/ mois
+
+14 collaborateurs. Ils sont développeurs, chefs de projet ou encore techniciens 
+
+
+HORAIRE DE TRAVAIL: 
+12h-13h30 = 6h/semaine
+soir : 17h30-20h = 2h30 = 10h/semaime                :== 30h/semaime
+S/D : 18h - 2h de pause le midi 30h/ semaine 
+
+
+05/10
 
 {
 Les methodes de gestion de projet;
@@ -90,7 +109,7 @@ Cette methode derive de la methode en cascade
 Son but -> palier au manque de flexibilité de la methide en cascade
 ce concentre sur la phase de conception
 
-Les méthodes agiles : Le client est impliqué dans la conception du projet du début à la fin, le besoin initial peut changer pour s’adapter à tout les changements et difficultés rencontrées. Au sein des méthodes traditionnelles, on conçoit un livrable final dès le départ, la méthode agile se fixe des objectifs successifs et à chaque palier atteint, on se fixe à laide du client un nouvel objectif 
+Les méthodes agiles : Le client est impliqué dans la conception du projet du début à la fin, le besoin initial peut changer pour s’adapter à tout les changements et difficultés rencontrées. Au sein des méthodes traditionnelles, on conçoit un livrable final dès le départ, la méthode agile se fixe des objectifs successifs et à chaque palier atteint, on se fixe à laide du client un nouvel objectif
 }
 
 
@@ -111,3 +130,8 @@ HORAIRE DE TRAVAIL:
 12h-13h30 = 6h/semaine
 soir : 17h30-20h = 2h30 = 10h/semaime                :== 30h/semaime
 S/D : 18h - 2h de pause le midi 30h/ semaine 
+
+
+
+
+Liscence metier : Formation licence metier 
