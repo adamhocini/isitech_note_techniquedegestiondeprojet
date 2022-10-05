@@ -131,7 +131,7 @@ HORAIRE DE TRAVAIL:
 soir : 17h30-20h = 2h30 = 10h/semaime                :== 30h/semaime
 S/D : 18h - 2h de pause le midi 30h/ semaine 
 
-
+ 
 
 
 Liscence metier : Formation licence metier 
