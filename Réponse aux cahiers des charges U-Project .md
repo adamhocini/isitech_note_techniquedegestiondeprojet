@@ -113,6 +113,9 @@ Les méthodes agiles : Le client est impliqué dans la conception du projet du d
 }
 
 
+
+preparer un repo git toutes les semaine de cours
+
 question;
 
 Dans le CDC on nous dis que mMeublinot ont 75salarier , ca veut dire 75 liscence et tout ce qui va avec ?
@@ -124,6 +127,8 @@ ON nous demande pas de deplacement
 Intégration d’un technicien informatique = 2 000 euros/ mois
 
 14 collaborateurs. Ils sont développeurs, chefs de projet ou encore techniciens 
+
+
 
 
 HORAIRE DE TRAVAIL: 
